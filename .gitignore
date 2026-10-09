@@ -1,0 +1,15 @@
+# Installed dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated outputs
+coverage/
+*.log
