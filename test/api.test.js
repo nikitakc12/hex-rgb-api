@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: EUPL-1.2
+// Copyright (c) 2026 Nikita K C
+
 const assert = require('node:assert/strict');
 const request = require('supertest');
 const app = require('../src/app');
