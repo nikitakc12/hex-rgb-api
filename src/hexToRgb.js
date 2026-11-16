@@ -1,4 +1,7 @@
-/**
+// SPDX-License-Identifier: EUPL-1.2
+// Copyright (c) 2026 Nikita K C/**
+
+
  * Converts a six-digit hexadecimal colour into RGB components.
  * Accepts an optional leading # and uppercase or lowercase letters.
  *
