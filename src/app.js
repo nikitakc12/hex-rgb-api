@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: EUPL-1.2
+// Copyright (c) 2026 Nikita K C
+
 const express = require('express');
 const hexToRgb = require('./hexToRgb');
 
